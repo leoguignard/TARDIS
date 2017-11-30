@@ -12,11 +12,11 @@ Python files:
   - TARDIS.py: python script to coregister two segmented embryos.
 
 ## Basic usage
-Each of the python scripts proposed here can be run from a terminal the following way:
+The TARDIS.py python script proposed here can be run from a terminal the following way:
 
 `python TARDIS.py`
 
-It is then prompted to provide a parameter csv file (examples provided in the folder csv-parameter-files). The path to the parameter file should be then typed in the terminal.
+It is then prompted to provide a parameter csv file (example provided in the folder csv-parameter-files). The path to the parameter file should be then typed in the terminal.
 
 ## Dependencies
 Some dependecies are requiered:
