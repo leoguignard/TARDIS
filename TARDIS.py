@@ -1,3 +1,7 @@
+# This file is subject to the terms and conditions defined in
+# file 'LICENSE', which is part of this source code package.
+# Author: Leo Guignard (guignardl...@AT@...janelia.hhmi.org)
+
 import pandas as pd
 import scipy as sp
 from scipy import interpolate
