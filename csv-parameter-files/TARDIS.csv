@@ -1,0 +1,18 @@
+path_ref,/media/X/SV1/14-05-21/Propagation/,,Path to the reference embryo folder containing SVF.bin and the TGMM_clean.bin
+TARDIS_folder_ref,/media/X/SV1/14-05-21/Propagation/TARDIS/,,Path to the output folder for the reference embryo
+annotation_ref,140521_PointAnnotations.csv,,"Name of the first annotation file for the reference embryo, has to be palced in the TARDIS folder"
+annotation_ref_2,140521_ManualAnnotation.xml,,"Name of the second annotation file, has to be palced in the TARDIS folder"
+path_barycenter,/media/X/SV1/14-05-21/Propagation/TARDIS/barycenters_manual.csv,,Path to the barycenter file
+path_flo,/media/X/SV1/KM_14-08-13/Propagation/,,Path to the floating embryo folder containing SVF.bin and the TGMM_clean.bin
+TARDIS_folder_flo,/media/X/SV1/KM_14-08-13/Propagation/TARDIS/,,Path to the output folder for the floating embryo
+annotation_flo,140813_PointAnnotations.csv,,"Name of the first annotation file for the floating embryo, has to be palced in the TARDIS folder"
+annotation_flo_2,140813_shifted_manualannotations.xml,,"Name of the second annotation file for the floating embryo, has to be palced in the TARDIS folder"
+match_points_folder,/media/X/SV1/KM_14-08-13/Propagation/TARDIS/point_matching/,,Path to the folder that will contain the shape estimation of the two embryos
+time_match_manual,50,0,Time matching between embryos
+,100,40,
+,150,80,
+,200,125,
+,250,150,
+,300,195,
+,350,230,
+,400,280,
