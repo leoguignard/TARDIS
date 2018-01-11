@@ -1013,65 +1013,6 @@ def read_param_file():
             csv_file_name_2, manual_annotation_2,
             TARDIS_folder_2, match_points_folder, time_match_manual)
 
-
-# path_1 = '/media/X/SV1/14-05-21/Propagation/'
-# csv_file_name_1 = '140521_PointAnnotations.csv'
-# TARDIS_folder_1 = path_1 + 'TARDIS/'
-# manual_annotation_1 = '140521_ManualAnnotation.xml'
-# path_barycenter = TARDIS_folder_1 + 'barycenters_manual.csv'
-
-# path_2 = '/media/X/SV1/KM_14-08-13/Propagation/'
-# csv_file_name_2 = '140813_PointAnnotations.csv'
-# manual_annotation_2 = '140813_shifted_manualannotations.xml'
-# TARDIS_folder_2 = path_2 + 'TARDIS/'
-# match_points_folder = TARDIS_folder_2 + 'point_matching/'
-# time_match_manual = [
-#                      [50, 0],
-#                      [100, 40],
-#                      [150, 80],
-#                      [200, 125],
-#                      [250, 150],
-#                      [300, 195],
-#                      [350, 230],
-#                      [400, 280]
-#                     ]
-
-# path_2 = '/media/R/SV1/KM_16-07-23/Propagation/'
-# csv_file_name_2 = '160723_PointAnnotations.csv'
-# manual_annotation_2 = '160723_shifted_ManualAnnotations.xml'
-# TARDIS_folder_2 = path_2 + 'TARDIS/'
-# match_points_folder = TARDIS_folder_2 + 'point_matching/'
-
-# time_match_manual = [
-#                      [123, 1],
-#                      [136, 40],
-#                      [157, 80],
-#                      [193, 108],
-#                      [244, 140],
-#                      [313, 180],
-#                      [370, 220],
-#                      [410, 260]
-#                     ]
-
-
-# path_2 = '/media/R/SV1/KM_15-12-05/Propagation/'
-# csv_file_name_2 = '151205_PointAnnotations.csv'
-# manual_annotation_2 = '151205_ManualAnnotations.xml'
-# TARDIS_folder_2 = path_2 + 'TARDIS/'
-# match_points_folder = TARDIS_folder_2 + 'point_matching/'
-# # 
-# time_match_manual = [
-#                      [107, 1],
-#                      [136, 50],
-#                      [165, 100],
-#                      [210, 150],
-#                      [275, 200],
-#                      [330, 250],
-#                      [380, 300],
-#                      [440, 350]
-#                     ]
-
-
 if __name__ == '__main__':
     (path_1, csv_file_name_1, TARDIS_folder_1,
             manual_annotation_1, path_barycenter, path_2,
