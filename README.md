@@ -30,4 +30,4 @@ To quickly install the script so it can be call from the terminal and install to
 ```shell
 python setup.py install [--user]
 ```
-Still will be remaining to install blockmathcing and IO packages.
+Still will be remaining to install Transformations and TGMMlibraries packages.
