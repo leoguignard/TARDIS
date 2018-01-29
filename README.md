@@ -17,6 +17,8 @@ The TARDIS.py python script proposed here can be run from a terminal the followi
 
 It is then prompted to provide a parameter csv file (example provided in the folder csv-parameter-files). The path to the parameter file should be then typed in the terminal.
 
+**If the package have been installed using setup.py, the script can be call just by typing `TARDIS.py` from anywhere in the terminal**
+
 ## Dependencies
 Some dependecies are requiered:
   - general python dependecies:
