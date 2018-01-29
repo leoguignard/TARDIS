@@ -24,3 +24,10 @@ Some dependecies are requiered:
   - TARDIS.py:
     - TGMMlibraries has to be installed (https://github.com/leoguignard/TGMMlibraries)
     - Transformations has to be installed (https://github.com/leoguignard/Transformations)
+    
+## Quick install
+To quickly install the script so it can be call from the terminal and install too the common dependecies one can run
+```shell
+python setup.py install [--user]
+```
+Still will be remaining to install blockmathcing and IO packages.
