@@ -25,4 +25,5 @@ setup(
         'Programming Language :: Python :: 2.7',
     ],
     install_requires=['scipy', 'numpy', 'pandas'],
+    scripts=['TARDIS.py']
 )
