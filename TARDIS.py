@@ -1469,14 +1469,12 @@ if __name__ == '__main__':
     R = 500
     nb_std = 1
     percentile = 80
-    from itertools import product
-    from time import time
     VF_2.final_pos = {}
+    for t in sorted(LT_2.new_time_nodes.keys()):
+        build_points(t, static_barycenter[t])
+
     mapping = [(t, static_barycenter[t]) for t in sorted(LT_2.new_time_nodes.keys())]
 
-
-    from itertools import product
-    from time import time
     VF_2.final_pos = {}
     LT_2.new_time_nodes.keys()
     mapping = sorted(LT_2.new_time_nodes.keys())
