@@ -1,0 +1,6 @@
+[submodule "TGMMlibraries"]
+	path = TGMMlibraries
+	url = https://github.com/leoguignard/TGMMlibraries
+[submodule "Transformations"]
+	path = Transformations
+	url = https://github.com/leoguignard/Transformations
