@@ -1,6 +1,6 @@
 # TARDIS
 
-This repository contains TARDIS the software that coregister embryos, proposed in our Mouse-Atlas article.
+This repository contains TARDIS the software that coregister embryos, proposed in the article *In toto imaging and reconstruction of post-implantation mouse development at the single-cell level*
 
 ## Description of the repository
 Folders:
